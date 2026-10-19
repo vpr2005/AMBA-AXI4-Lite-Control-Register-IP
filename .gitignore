@@ -1,0 +1,25 @@
+# Vivado project generated files & logs
+*.jou
+*.log
+*.str
+.Xil/
+
+# Vivado project intermediate and output directories
+project_1.cache/
+project_1.hw/
+project_1.ip_user_files/
+project_1.runs/
+project_1.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Checkpoints, databases, and temporary binaries
+*.dcp
+*.wdb
+*.pb
+*.vcd
+*.obj
+*.exe
