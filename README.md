@@ -1,1 +1,0 @@
-# AMBA-AXI4-Lite-Control-Register-IP
